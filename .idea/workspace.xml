@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b8bf978-8370-4c74-b366-1d8a0b1e0f5f" name="Changes" comment="cover update" />
+    <list default="true" id="7b8bf978-8370-4c74-b366-1d8a0b1e0f5f" name="Changes" comment="cover update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oculus_landscape/org.godotengine.scarydescent.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/oculus_landscape/org.godotengine.scarydescent.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +24,12 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JarJarBlinkz/LauncherIcons.git",
-    "accountId": "2a5253ce-e649-485d-a3db-aca98e6f4443"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JarJarBlinkz/LauncherIcons.git&quot;,
+    &quot;accountId&quot;: &quot;2a5253ce-e649-485d-a3db-aca98e6f4443&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -142,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772730127441</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cover update">
+      <option name="closed" value="true" />
+      <created>1772731044131</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772731044131</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
